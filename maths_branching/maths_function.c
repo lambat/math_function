@@ -40,6 +40,17 @@ float mod (float x, float y)
     return x % y;
 }
 
+// int i, max = 0, min = 0;
+//for(i=1;i<=5;i++){
+//printf("Enter Number #%d ", i);
+//scanf("%d", &x);
+//if(x>max)
+//max = x;
+//if(x<min || i==1)
+//min = x;
+//}
+//printf("Max =%d, Min = %d\n", max, min);
+
 int main()
 {
     float a, b, r;
